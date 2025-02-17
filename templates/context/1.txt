@@ -1,0 +1,9 @@
+Based on the instructions given, determine if the following article is relevant to the given patient's case.
+
+Medical article abstract: {article_abstract}
+
+Medical article full text: {article_fulltext}
+
+Medical article images: {article_images}
+
+Medical article image captions: {article_captions}

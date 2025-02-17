@@ -1,0 +1,11 @@
+To guide your evaluation, here is an example of a medical article that is considered relevant to the patient’s case:
+
+Medical article title: {article_title}
+Medical article authors: {article_authors}
+Medical article abstract: {article_abstract}
+Medical article full text: {article_fulltext}
+Medical article images: {article_images}
+Medical article image captions: {article_captions}
+
+
+Taking into consideration that this medical article is relevant, assess whether the following articles are relevant to the patient's case.

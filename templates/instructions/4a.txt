@@ -1,0 +1,6 @@
+The patient's case to perform the judgements against is the following:
+
+Case Textual description: {case_description}
+Case Images: {case_images}
+
+Wait for an example of a relevant article before proceeding with your evaluation.
