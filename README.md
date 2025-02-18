@@ -37,7 +37,8 @@ In order to run the project, you need to set all of the following environment va
 
 ### Acknowledgements
 
-This work is co-financed by Component 5 - Capitalization and Business Innovation, integrated in the Resilience Dimension of the Recovery and Resilience Plan within the scope of the Recovery and Resilience Mechanism (MRR) of the European Union (EU), framed in the Next Generation EU, for the period 2021 - 2026, within project HfPT, with reference 41.
+This work is co-financed by Component 5 - Capitalization and Business Innovation, integrated into the Resilience Dimension of the Recovery and Resilience Plan, within the scope of the Recovery and Resilience Mechanism (MRR) of the European Union (EU), framed under Next Generation EU, for the period 2021–2026, within the project HfPT (reference 41).
+Additionally, this work received funding from the project “PTicola - Increasing Computationally Language Resources for Portuguese” (reference CPCA-IAC/AV/594794/2023), with DOI 10.54499/CPCA-IAC/AV/594794/2023.
 
 ### Citation
 
