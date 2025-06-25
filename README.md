@@ -45,13 +45,11 @@ Additionally, this work received funding from the project “PTicola - Increasin
 Please cite the resource if you use this data.
 
 ```
-@misc{mllm-expansion_qrel_2013_case_based,
-    author = {Pires, Catarina and Nunes, Sérgio and Teixeira, Luís Filipe},
-    title = {{ImageCLEFmed 2013 case-based retrieval task relevance judgments expansion via an MLLM-as-a-Judge approach}},
-    doi = {10.5281/zenodo.14866103},
-    howpublished= {\url{https://doi.org/10.5281/zenodo.14866103}},
-    type = {Dataset},
-    year = {2025},
-    institution = {INESC TEC}
+@article{pires2025mllmjudge,
+  author       = {Catarina Pires and Sérgio Nunes and Luís Filipe Teixeira},
+  title        = {Expanding Relevance Judgments for Medical Case-based Retrieval Task with Multimodal LLMs},
+  journal      = {arXiv preprint arXiv:2506.17782},
+  note         = {Presented at the Third Workshop on Large Language Models for Evaluation in Information Retrieval (LLM4Eval 2025), co-located with SIGIR 2025, Padua, Italy, July 17, 2025},
+  url          = {http://arxiv.org/abs/2506.17782}
 }
 ```
