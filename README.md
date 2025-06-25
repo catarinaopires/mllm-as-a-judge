@@ -8,7 +8,7 @@ The [ImageCLEFmed 2013 case-based retrieval task](https://www.imageclef.org/2013
 
 ### Description
 
-[Our dataset](https://doi.org/10.5281/zenodo.14866104) contains additional relevance judgments (qrels) for the [ImageCLEFmed 2013 case-based retrieval task](https://www.imageclef.org/2013/medical). These judgments were generated using an MLLM-as-a-Judge approach, leveraging the Gemini 1.5 Pro model to simulate human assessment and expand the original qrels of the task.
+[Our dataset](https://doi.org/10.5281/zenodo.14866103) contains additional relevance judgments (qrels) for the [ImageCLEFmed 2013 case-based retrieval task](https://www.imageclef.org/2013/medical). These judgments were generated using an MLLM-as-a-Judge approach, leveraging the Gemini 1.5 Pro model to simulate human assessment and expand the original qrels of the task.
 
 The dataset includes 543,625 new relevance judgments for the ImageCLEFmed 2013 case-based retrieval task.
 
