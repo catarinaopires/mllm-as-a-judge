@@ -1,5 +1,7 @@
-## ImageCLEFmed 2013 case-based retrieval task relevance judgments expansion via an MLLM-as-a-Judge approach
-### Presented at [LLM4Eval@SIGIR 2025](https://llm4eval.github.io/SIGIR2025/) - [Paper](http://arxiv.org/abs/2506.17782)
+## [Expanding Relevance Judgments for Medical Case-based Retrieval Task with Multimodal LLMs](http://arxiv.org/abs/2506.17782)
+#### Presented at [LLM4Eval@SIGIR 2025](https://llm4eval.github.io/SIGIR2025/)
+
+This repository contains the code and resultant dataset for the paper ["Expanding Relevance Judgments for Medical Case-based Retrieval Task with Multimodal LLMs"](http://arxiv.org/abs/2506.17782), presented at the Third Workshop on Large Language Models for Evaluation in Information Retrieval ([LLM4Eval 2025](https://llm4eval.github.io/SIGIR2025/)), co-located with SIGIR 2025, Padua, Italy, July 17, 2025.
 
 <b>Authors:</b> Catarina Pires, Sérgio Nunes, Luís Filipe Teixeira
 
