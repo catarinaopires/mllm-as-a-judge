@@ -1,4 +1,5 @@
 ## ImageCLEFmed 2013 case-based retrieval task relevance judgments expansion via an MLLM-as-a-Judge approach
+### Presented at [LLM4Eval@SIGIR 2025](https://llm4eval.github.io/SIGIR2025/) - [Paper](http://arxiv.org/abs/2506.17782)
 
 <b>Authors:</b> Catarina Pires, Sérgio Nunes, Luís Filipe Teixeira
 
